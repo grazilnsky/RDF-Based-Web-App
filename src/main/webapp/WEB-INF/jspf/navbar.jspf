@@ -1,0 +1,14 @@
+<%@page import="java.util.Collection"%>
+<%@page import="java.util.ArrayList"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@page import="java.util.List"%>
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE HTML>
+<nav>         
+    <ul>
+        <li><a href="index.jsp">Add Record</a></li>   
+        <li><a href="SortingController">Records</a></li>
+        <li><a href="RDFController">RDF Structure</a></li>
+        <li><a href="ParkingController">Parking Info</a></li>
+    </ul>
+</nav>

@@ -1,0 +1,39 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+body {
+  padding-top: 80px;
+  padding-bottom: 40px;
+  background: #f0f0f0;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #111111;
+}
+
+table,td,th {
+   border: 1px solid black;
+}
+

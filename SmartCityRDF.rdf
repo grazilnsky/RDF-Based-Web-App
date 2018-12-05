@@ -1,0 +1,195 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:record="http://swproject2.org/record/"
+    >
+  <rdf:Description rdf:about="http://swproject2.org/record/Tresdoctores5">
+    <record:duration>541</record:duration>
+    <record:time>12:03</record:time>
+    <record:date>2018-10-03</record:date>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:location>Parcarea din fata blocului</record:location>
+    <record:type>parking</record:type>
+    <record:name>Tres doctores</record:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/sasdasdasd">
+    <record:name>sasdasdasd</record:name>
+    <record:type>hospital</record:type>
+    <record:location>sdasdasd</record:location>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:date>2018-11-23</record:date>
+    <record:time>12:31</record:time>
+    <record:duration>55</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/AuroraBorealis2">
+    <record:name>Aurora Borealis</record:name>
+    <record:type>parking</record:type>
+    <record:location>Seymour's Kitchen</record:location>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:date>2018-11-23</record:date>
+    <record:time>14:01</record:time>
+    <record:duration>3</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/omegalul">
+    <record:date>2018-11-23</record:date>
+    <record:time>12:31</record:time>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:location>afi</record:location>
+    <record:type>parking</record:type>
+    <record:name>omegalul</record:name>
+    <record:duration>234</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/fd23125">
+    <record:name>fd</record:name>
+    <record:type>parking</record:type>
+    <record:location>gfd</record:location>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:date>2018-11-12</record:date>
+    <record:time>00:12</record:time>
+    <record:duration>89</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/parking">
+    <record:coordinates>10.20 30.15</record:coordinates>
+    <record:location>Bucharest</record:location>
+    <record:type>parking</record:type>
+    <record:date>2018-11-23</record:date>
+    <record:time>12:31</record:time>
+    <record:name>Obor parking spot</record:name>
+    <record:duration>45</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/FerD448">
+    <record:name>FerD44</record:name>
+    <record:type>parking</record:type>
+    <record:location>Bucharest</record:location>
+    <record:coordinates>21.2 21.4</record:coordinates>
+    <record:date>2018-11-27</record:date>
+    <record:time>10:54</record:time>
+    <record:duration>nothing</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/baboclabo">
+    <record:type>parking</record:type>
+    <record:location>unirii</record:location>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:date>2018-11-23</record:date>
+    <record:time>12:31</record:time>
+    <record:duration>425</record:duration>
+    <record:name>baboclabo</record:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/respiratieanaeroba">
+    <record:duration>125</record:duration>
+    <record:time>21:12</record:time>
+    <record:date>2018-05-27</record:date>
+    <record:coordinates>stanga si dreapta</record:coordinates>
+    <record:location>plamani</record:location>
+    <record:type>hospital</record:type>
+    <record:name>respiratie anaeroba</record:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/FerD459">
+    <record:duration>nothing</record:duration>
+    <record:time>11:04</record:time>
+    <record:date>2018-11-27</record:date>
+    <record:coordinates>21.2 21.4</record:coordinates>
+    <record:location>Bucharest</record:location>
+    <record:type>parking</record:type>
+    <record:name>FerD45</record:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/baboclabo37">
+    <record:duration>656</record:duration>
+    <record:time>10:45</record:time>
+    <record:date>2018-11-27</record:date>
+    <record:coordinates>23.21 44.66</record:coordinates>
+    <record:location>Bucharest</record:location>
+    <record:type>hospital</record:type>
+    <record:name>baboclabo3</record:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/baboclabo26">
+    <record:name>baboclabo2</record:name>
+    <record:type>hospital</record:type>
+    <record:location>Bucharest</record:location>
+    <record:coordinates>23.21 44.66</record:coordinates>
+    <record:date>2018-11-27</record:date>
+    <record:time>11:05</record:time>
+    <record:duration>812</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/klingonwar3">
+    <record:duration>408</record:duration>
+    <record:time>12:03</record:time>
+    <record:date>2018-11-03</record:date>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:location>f</record:location>
+    <record:type>parking</record:type>
+    <record:name>klingon war</record:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/kdjasjdhsaj12">
+    <record:name>kdjasjdhsaj</record:name>
+    <record:type>hospital</record:type>
+    <record:location>Spitalu ala bun</record:location>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:date>2018-12-03</record:date>
+    <record:time>18:03</record:time>
+    <record:duration>109</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/hospital">
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:location>Bucharest</record:location>
+    <record:type>hospital</record:type>
+    <record:time>12:30</record:time>
+    <record:date>2017-02-02</record:date>
+    <record:name>Coltea</record:name>
+    <record:duration>52</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/gicu">
+    <record:name>gicu</record:name>
+    <record:type>hospital</record:type>
+    <record:location>Bucharest</record:location>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:date>2018-04-01</record:date>
+    <record:time>19:09</record:time>
+    <record:duration>76</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/oasidjI11">
+    <record:duration>nothing</record:duration>
+    <record:time>17:50</record:time>
+    <record:date>2018-12-03</record:date>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:location>ce?</record:location>
+    <record:type>parking</record:type>
+    <record:name>oasidjI</record:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/CerintaGrea4">
+    <record:name>Cerinta Grea</record:name>
+    <record:type>parking</record:type>
+    <record:location>Retard</record:location>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:date>2018-11-11</record:date>
+    <record:time>13:12</record:time>
+    <record:duration>932</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/dsa">
+    <record:time>00:12</record:time>
+    <record:date>2018-11-12</record:date>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:location>dsa</record:location>
+    <record:type>parking</record:type>
+    <record:name>dsa</record:name>
+    <record:duration>123</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/FerD4610">
+    <record:name>FerD46</record:name>
+    <record:type>hospital</record:type>
+    <record:location>Spitalu ala bun</record:location>
+    <record:coordinates>43.2 12.3</record:coordinates>
+    <record:date>2018-12-01</record:date>
+    <record:time>12:59</record:time>
+    <record:duration>663</record:duration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swproject2.org/record/Ferdinand1">
+    <record:duration>775</record:duration>
+    <record:time>00:12</record:time>
+    <record:date>2018-11-12</record:date>
+    <record:coordinates>44.454 25.999</record:coordinates>
+    <record:location>Spitalu ala bun</record:location>
+    <record:type>hospital</record:type>
+    <record:name>Ferdinand</record:name>
+  </rdf:Description>
+</rdf:RDF>
+
